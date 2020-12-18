@@ -1,4 +1,4 @@
-UEFI APPLICATION
+UEFI APPLICATION(DXE-driver)
 
 file to bin -> xxd -i <filename>
 
