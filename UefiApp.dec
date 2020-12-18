@@ -1,0 +1,10 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = UefiAppPkg
+  PACKAGE_GUID                   = 2a1545ea-0bc7-4d4a-bb99-c8b8c3a5138f
+  PACKAGE_VERSION                = 0.1
+  #SUPPORTED_ARCHITECTURES        = X64
+  #OUTPUT_DIRECRORY               = BUILD/UefiAppPkg
+  #BUILD_TARGRTS                  = DEBUG|RELEASE
+  #SKUID_IDENTIFIER               = DEFAULT	  
+
